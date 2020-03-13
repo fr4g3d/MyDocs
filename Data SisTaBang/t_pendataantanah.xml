@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8448</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="3" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="13.2">
+   <Column ss:Index="2" ss:Width="40.200000000000003"/>
+   <Column ss:Width="60.6"/>
+   <Column ss:Index="6" ss:Width="48.6" ss:Span="3"/>
+   <Column ss:Index="10" ss:Width="59.4"/>
+   <Column ss:Index="12" ss:Width="48.6"/>
+   <Column ss:Width="55.800000000000004"/>
+   <Column ss:Index="16" ss:Width="48.6"/>
+   <Column ss:Width="59.4"/>
+   <Column ss:Width="55.800000000000004"/>
+   <Column ss:Index="21" ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="27" ss:Width="48.6"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kodependataantanah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idtanah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idbangunan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idbarang</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idawal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">luastanah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tahunperolehan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idkota</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idkecamatan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idkelurahan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alamat</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idhak</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tanggalsertifikat</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nomorsertifikat</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">penggunaantanah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idperolehan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hargatanah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bast</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">keterangan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nip</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idstatusrecon</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">idskpd</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">skpdketerangan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">koordinator</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">filename</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">type</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">size</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">path</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gmapsurl</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">qrcpath</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KPT-00000001</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">4379801</Data></Cell>
+    <Cell><Data ss:Type="String">4379801</Data></Cell>
+    <Cell><Data ss:Type="Number">3795</Data></Cell>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="Number">3673</Data></Cell>
+    <Cell><Data ss:Type="Number">367303</Data></Cell>
+    <Cell><Data ss:Type="Number">3673031014</Data></Cell>
+    <Cell><Data ss:Type="String">TAMAN PIPITAN INDAH</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-12-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1612875000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-12-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">121/WKN.06/06.00/2015 Penilaian DJKN PSU</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">Dr. Agus Salami, MM</Data></Cell>
+    <Cell><Data ss:Type="String">KPT-00000001_Dajjal_Palace_1.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">image/jpeg</Data></Cell>
+    <Cell><Data ss:Type="Number">105017</Data></Cell>
+    <Cell><Data ss:Type="String">tanah/KPT-00000001_Dajjal_Palace_1.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">https://goo.gl/maps/gQ7FeAt1ej6MvteB9</Data></Cell>
+    <Cell><Data ss:Type="String">tanah/qr/qrcode_cad938d7395420d1205d573bc86bf586.png</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KPT-00000002</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">4379801</Data></Cell>
+    <Cell><Data ss:Type="String">4379801</Data></Cell>
+    <Cell><Data ss:Type="Number">3795</Data></Cell>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="Number">3673</Data></Cell>
+    <Cell><Data ss:Type="Number">367303</Data></Cell>
+    <Cell><Data ss:Type="Number">3673031014</Data></Cell>
+    <Cell><Data ss:Type="String">TAMAN PIPITAN INDAH</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-12-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1612875000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="DateTime">2018-12-16T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">121/WKN.06/06.00/2015 Penilaian DJKN PSU</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">Dr. Agus Salami, MM</Data></Cell>
+    <Cell><Data ss:Type="String">KPT-00000002_Dajjal_Palace_1.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">image/jpeg</Data></Cell>
+    <Cell><Data ss:Type="Number">413590</Data></Cell>
+    <Cell><Data ss:Type="String">tanah/KPT-00000002_Dajjal_Palace_1.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">https://goo.gl/maps/gQ7FeAt1ej6MvteB9</Data></Cell>
+    <Cell><Data ss:Type="String">tanah/qr/qrcode_cad938d7395420d1205d573bc86bf586.png</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
