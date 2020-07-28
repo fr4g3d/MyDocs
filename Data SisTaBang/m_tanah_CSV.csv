@@ -1,0 +1,322 @@
+1	01.01.01.01.001	Kampung
+2	01.01.01.01.002	Tanah Kampung Lain-lain
+3	01.01.01.02.001	Emplasmen
+4	01.01.01.02.002	Emlasemen Lainnya
+5	01.01.01.03.001	Islam
+6	01.01.01.03.002	Kristen
+7	01.01.01.03.003	Cina
+8	01.01.01.03.004	Hindu
+9	01.01.01.03.005	Budha
+10	01.01.01.03.006	Makam Pahlawan
+11	01.01.01.03.007	Tempat Benda Bersejarah
+12	01.01.01.03.008	Makam Umum/Kuburan Umum
+13	01.01.01.03.009	Kuburan Lainnya
+14	01.01.02.01.001	Padi
+15	01.01.02.01.002	Palawija
+16	01.01.02.01.003	Sawah Ditanami Tebu
+17	01.01.02.01.004	Sawah Ditanami Sayuran
+18	01.01.02.01.005	Sawah Ditanami Tembakau
+19	01.01.02.01.006	Sawah Ditanami Roselia
+20	01.01.02.01.007	Sawah Lain-lain
+21	01.01.02.02.001	Buah-buahan
+22	01.01.02.02.002	Tembakau
+23	01.01.02.02.003	Jagung
+24	01.01.02.02.004	Ketela Pohon
+25	01.01.02.02.005	Kacang Tanah
+26	01.01.02.02.006	Kacang Hijau
+27	01.01.02.02.007	Kedelai
+28	01.01.02.02.008	Ubi Jalar
+29	01.01.02.02.009	Kedelai
+30	01.01.02.02.010	Tegalan Lain-lain
+31	01.01.02.03.001	Padi
+32	01.01.02.03.002	Jagung
+33	01.01.02.03.003	Ketela Pohon
+34	01.01.02.03.004	Kacang Tanah
+35	01.01.02.03.005	Kacang Hijau
+36	01.01.02.03.006	Kedelai
+37	01.01.02.03.007	Ubi Jalar
+38	01.01.02.03.008	Keladi
+39	01.01.02.03.009	Bengkuang
+40	01.01.02.03.010	Apel
+41	01.01.02.03.011	Kentang
+42	01.01.02.03.012	Jeruk
+43	01.01.02.03.013	Ladang Lainnya
+44	01.01.03.01.001	Karet
+45	01.01.03.01.002	Kopi
+46	01.01.03.01.003	Kelapa
+47	01.01.03.01.004	Randu
+48	01.01.03.01.005	Lada
+49	01.01.03.01.006	Teh
+50	01.01.03.01.007	Kina
+51	01.01.03.01.008	Coklat
+52	01.01.03.01.009	Kelapa Sawit
+53	01.01.03.01.010	Sereh
+54	01.01.03.01.011	Cengkeh
+55	01.01.03.01.012	Pala
+56	01.01.03.01.013	Sagu
+57	01.01.03.01.014	Jambu Mente
+58	01.01.03.01.015	Tengkawang
+59	01.01.03.01.016	Minyak Kayu Putih
+60	01.01.03.01.017	Kayu Manis
+61	01.01.03.01.018	Petai
+62	01.01.03.01.019	Perkebunan Lain-lain
+63	01.01.04.01.001	Tanaman Rupa-rupa
+64	01.01.04.01.002	Tanah Kebun CampuranLain-lain
+65	01.01.04.02.001	Jenis Tanaman Rupa-rupa & tidak jelas mana yang menonjol
+66	01.01.04.02.002	Tanaman Luar Pekarangan
+67	01.01.04.02.003	Tanah Kebun Campuran Lain-lain
+68	01.01.05.01.001	Meranti
+69	01.01.05.01.002	Rasamala
+70	01.01.05.01.003	Bulian
+71	01.01.05.01.004	Medang
+72	01.01.05.01.005	Jelutung
+73	01.01.05.01.006	Ramin
+74	01.01.05.01.007	Puspa
+75	01.01.05.01.008	Sunintem
+76	01.01.05.01.009	Albenia
+77	01.01.05.01.010	Kayu Besar/Ulin
+78	01.01.05.01.011	Tanah Hutan Lain-lain
+79	01.01.05.02.001	Semak-semak
+80	01.01.05.02.002	Hutan Belukar
+81	01.01.05.02.003	Hutan Belukar Lain-lain
+82	01.01.05.03.001	Jati
+83	01.01.05.03.002	Pinus
+84	01.01.05.03.003	Rotan
+85	01.01.05.03.004	Hutan Tanaman Jenis Lain-lain
+86	01.01.05.04.001	Bakau
+87	01.01.05.04.002	Cemara (yang tidak ditanam)
+88	01.01.05.04.003	Galam
+89	01.01.05.04.004	Nipah
+90	01.01.05.04.005	Bambu
+91	01.01.05.04.006	Rotan
+92	01.01.05.04.007	Hutan Alam Sejenis Lainnya
+93	01.01.05.05.001	Hutan Cadangan
+94	01.01.05.05.002	Hutan Lindung
+95	01.01.05.05.003	Hutan Cagar Alam
+96	01.01.05.05.004	Hutan Taman Wisata
+97	01.01.05.05.005	Hutan Taman Burung
+98	01.01.05.05.006	Hutan Suaka Marga Satwa
+99	01.01.05.05.007	Hutan Taman Nasional
+100	01.01.05.05.008	Hutan Produksi
+101	01.01.05.05.009	Hutan Untuk Penggunaan Khusus Lainnya
+102	01.01.06.01.001	Tambak
+103	01.01.06.01.002	Tambak Lainnya
+104	01.01.06.02.001	Kolam Air Tawar
+105	01.01.06.02.002	Air Tawar Lainnya
+106	01.01.07.01.001	Rawa
+107	01.01.07.01.002	Rawa Lain-lain
+108	01.01.07.02.001	Danau/Situ
+109	01.01.07.02.002	Waduk
+110	01.01.07.02.003	Danau Lain-lain
+111	01.01.08.01.001	Berbatu-batu
+112	01.01.08.01.002	Longsor
+113	01.01.08.01.003	Tanah Lahar
+114	01.01.08.01.004	Tanah Berpasir/Pasir
+115	01.01.08.01.005	Tanah Pengambilan/Kuasi
+116	01.01.08.01.006	Tanah Tandus Lainnya
+117	01.01.08.02.001	Tanah yang tererosi/Longsor
+118	01.01.08.02.002	Bekas Tambang/Galian
+119	01.01.08.02.003	Bekas Sawah/Rawa
+120	01.01.08.02.004	Tanah Rusak Lain-lain
+121	01.01.09.01.001	Alang-Alang
+122	01.01.09.01.002	Alang-alang Lainnya
+123	01.01.09.02.001	Semak Belukar
+124	01.01.09.02.002	Padang Rumput
+125	01.01.09.02.003	Padang Rumput Lainnya
+126	01.01.10.02.007	Penggalian
+127	01.01.10.02.008	Tempat Air Hangat
+128	01.01.10.02.009	Penggalian Lainnya
+129	01.01.11.01.001	Tanah Bangunan Rumah Negara Gol I
+130	01.01.11.01.002	Tanah Bangunan Rumah Negara Gol II
+131	01.01.11.01.003	Tanah Bangunan Rumah Negara Gol III
+132	01.01.11.01.004	Tanah Bangunan Rumah Negara Tanpa Golongan
+133	01.01.11.01.005	Tanah Bangunan Mess/Wisma/Asrama
+134	01.01.11.01.006	Tanah Bangunan Peristirahatan/Bungalow/Cottage
+135	01.01.11.01.007	Tanah Bangunan Rumah Penjaga
+136	01.01.11.01.008	Tanah Bangunan Rumah LP
+137	01.01.11.01.009	Tanah Bangunan Rumah Tahanan/Rutan
+138	01.01.11.01.010	Tanah Bangunan Rumah Fasilitas Tempat Tinggal Lain
+139	01.01.11.01.011	Tanah Bangunan Perumahan Lain-lain
+140	01.01.11.02.001	Tanah Bangunan Pasar
+141	01.01.11.02.002	Tanah Bangunan Pertokoan/Rumah Toko
+142	01.01.11.02.003	Tanah Bangunan Gedung
+143	01.01.11.02.004	Tanah Bangunan Stasiun Kereta Api
+144	01.01.11.02.005	Tanah Bangunan Bioskop
+145	01.01.11.02.006	Tanah Bangunan Hotel/Penginapan
+146	01.01.11.02.007	Tanah Bangunan Terminal Darat
+147	01.01.11.02.008	Tanah Bangunan Terminal Laut
+148	01.01.11.02.009	Tanah Bangunan Terminal Udara
+149	01.01.11.02.010	Tanah Bangunan Gedung Kesenian
+150	01.01.11.02.011	Tanah Bangunan Gedung Pameran
+151	01.01.11.02.012	Tanah Bangunan Gedung Pusat Perbelanjaan
+152	01.01.11.02.013	Tanah Bangunan Apotik
+153	01.01.11.02.014	Tanah Bangunan Gedung Perdaganagan Lainnya
+154	01.01.11.02.015	Tanah Utk Bangunan Gd. Perdagangan Lain-lain
+155	01.01.11.03.001	Tanah Bangunan Industri Makanan
+156	01.01.11.03.002	Tanah Bangunan Industri Minuman
+157	01.01.11.03.003	Tanah Bangunan Industri/Alat RT
+158	01.01.11.03.004	Tanah Bangunan Industri Pakaian/Garment
+159	01.01.11.03.005	Tanah Bangunan Industri Besi/Logam
+160	01.01.11.03.006	Tanah Bangunan Industri Baja
+161	01.01.11.03.007	Tanah Bangunan Industri Pengelengan
+162	01.01.11.03.008	Tanah Bangunan Industri Bengkel
+163	01.01.11.03.009	Tanah Bangunan Industri Penyulingan Minyak
+164	01.01.11.03.010	Tanah Bangunan Industri Semen
+165	01.01.11.03.011	Tanah Bangunan Industri Batu Bata/Batako
+166	01.01.11.03.012	Tanah Bangunan Industri Genteng
+167	01.01.11.03.013	Tanah Bangunan Industri Percetakan
+168	01.01.11.03.014	Tanah Bangunan Industri Tekstil
+169	01.01.11.03.015	Tanah Bangunan Industri Obat-obatan
+170	01.01.11.03.016	Tanah Bangunan Industri Alat Olah Raga
+171	01.01.11.03.017	Tanah Bangunan Industri Kendraan/Otomotif
+172	01.01.11.03.018	Tanah Bangunan Industri Persenjataan
+173	01.01.11.03.019	Tanah Bangunan Industri Kapal Udara
+174	01.01.11.03.020	Tanah Bangunan Industri Kapal Laut
+175	01.01.11.03.021	Tanah Bangunan Industri Kapal Api
+176	01.01.11.03.022	Tanah Bangunan Industri Keramik/Marmer
+177	01.01.11.03.023	Tanah Bangunan Industri Lainnya
+178	01.01.11.04.001	Tanah Bangunan Kantor Pemerintah
+179	01.01.11.04.002	Tanah Bangunan Pendidikan dan Latihan (Sekolah)
+180	01.01.11.04.003	Tanah Bangunan Rumah Sakit
+181	01.01.11.04.004	Tanah Bangunan Apotik
+182	01.01.11.04.005	Tanah Bangunan Tempat Ibadah
+183	01.01.11.04.006	Tanah Bangunan Dermaga
+184	01.01.11.04.007	Tanah Bangunan Pelabuhan Udara
+185	01.01.11.04.008	Tanah Bangunan Olah Raga
+186	01.01.11.04.009	Tanah Bangunan Taman/Wisata/Rekreasi
+187	01.01.11.04.010	Tanah Bangunan Balai Sidang/Pertemuan
+188	01.01.11.04.011	Tanah Bangunan Balai Nikah
+189	01.01.11.04.012	Tanah Bangunan Puskesmas/Posyandu
+190	01.01.11.04.013	Tanah Bangunan Poliklinik
+191	01.01.11.04.014	Tanah Bangunan Laboratorium
+192	01.01.11.04.015	Tanah Bangunan Fumigasi/Sterilisasi
+193	01.01.11.04.016	Tanah Bangunan Karantina
+194	01.01.11.04.017	Tanah Bangunan Bangsal Pengolahan Pondok Kerja
+195	01.01.11.04.018	Tanah Bangunan Kandang Hewan
+196	01.01.11.04.019	Tanah Bangunan Pembibitan
+197	01.01.11.04.020	Tanah Bangunan Rumah Pendingin
+198	01.01.11.04.021	Tanah Bangunan Rumah Pengering
+199	01.01.11.04.022	Tanah Bangunan Statiun Penelitian
+200	01.01.11.04.023	Tanah Bangunan Gedung Pelelangan Ikan
+201	01.01.11.04.024	Tanah Bangunan Pos Jaga/Menara Jaga
+202	01.01.11.04.025	Tanah Bangunan Tempat Kerja Lainnya
+203	01.01.11.04.026	Tanah BangunanTempat Kerja Lainnya
+204	01.01.11.05.001	Tanah kosong yang tidak diusahakan
+205	01.01.11.05.002	Tanah Sawah
+206	01.01.11.05.003	Tanah Tegalan
+207	01.01.11.05.004	Tanah Kebun
+208	01.01.11.05.005	Tanah kosong yang sudah diperuntukkan
+209	01.01.11.05.006	Kebun Pembibitan
+210	01.01.11.05.007	Tanah Kosong Lainnya
+211	01.01.11.06.001	Tanah Peternakan
+212	01.01.11.06.002	Tanah Peternakan Lainnya
+213	01.01.11.07.001	Tanah Waduk
+214	01.01.11.07.002	Tanah Komplek Bendungan
+215	01.01.11.07.003	Tanah Jaringan/Saluran
+216	01.01.11.07.004	Tanah Bangunan Pengairan Lain-lain
+217	01.01.11.08.001	Tanah Jalan
+218	01.01.11.08.002	Tanah Jembatan
+219	01.01.11.08.003	Tanah Bangunan Jln dan Jembatan Lain-lain
+220	01.01.11.09.001	Tanah Lembiran Pengairan
+221	01.01.11.09.002	Tanah Lambiran Jalan dan Jembatan
+222	01.01.11.09.003	Tanah Lembiran/Bantaran/Lepe2 Lain-lain
+223	01.01.12.01.001	Intan
+224	01.01.12.01.002	Emas
+225	01.01.12.01.003	Perak
+226	01.01.12.01.004	Nekel
+227	01.01.12.01.005	Timah
+228	01.01.12.01.006	Uranium
+229	01.01.12.01.007	Tembaga
+230	01.01.12.01.008	Minyak Bumi
+231	01.01.12.01.009	Batu Bara
+232	01.01.12.01.010	Koslin
+233	01.01.12.01.011	Batu Bara Berharga
+234	01.01.12.01.012	Pasir Berharga
+235	01.01.12.01.013	Pertambangan Lain-lain
+236	01.01.13.01.001	Tanah Lapangan Tenis
+237	01.01.13.01.002	Tanah Lapangan Basket
+238	01.01.13.01.003	Tanah Lapangan Badminton/Bulutangkis
+239	01.01.13.01.004	Tanah Lapangan Golf
+240	01.01.13.01.005	Tanah Lapangan Sepak Bola
+241	01.01.13.01.006	Tanah Lapangan Bola Volly
+242	01.01.13.01.007	Tanah Lapangan Sepak Takraw
+243	01.01.13.01.008	Tanah Lapangan Pacuan Kuda
+244	01.01.13.01.009	Tanah Lapangan Balap Sepeda
+245	01.01.13.01.010	Tanah Lapangan Atletik
+246	01.01.13.01.011	Tanah Lapangan Softball
+247	01.01.13.01.012	Tanah Lapangan Olah Raga Lain-lain
+248	01.01.13.01.013	
+249	01.01.13.02.001	Tanah Lapangan Parkir Konstruksi Beton
+250	01.01.13.02.002	Tanah Lapangan Parkir Konstruksi Aspal
+251	01.01.13.02.003	Tanah Lapangan Parkir Sirtu (Pasir Batu)
+252	01.01.13.02.004	Tanah Lapangan Parkir Konblok
+253	01.01.13.02.005	Tanah Lapangan Parkir Tanah Keras
+254	01.01.13.02.006	Tanah Lapngan Parkir Lain-lain
+255	01.01.13.03.001	Tanah Lapangan Penimbun Barang Belum Diolah
+256	01.01.13.03.002	Tanah Lapangan Penimbun Barang Jadi
+257	01.01.13.03.003	Tanah Lapangan Penimbun Pembuangan Sampah
+258	01.01.13.03.004	Tanah Lapangan Penimbun Bahan Bangunan
+259	01.01.13.03.005	Tanah Lapangan Penimbun Barang Bukti
+260	01.01.13.03.006	Tanah Lapangan Penimbun Barang Lain-lain
+261	01.01.13.04.001	Tanah Lapangan Pemancar TV/Radio/Radar
+262	01.01.13.04.002	Tanah Lapangan Studio Alam
+263	01.01.13.04.003	Tanah Lapangan Pemancar Lainnya
+264	01.01.13.04.004	Tanah Lapangan Pemancar & Studi Lain-lain
+265	01.01.13.05.001	Tanah Lapangan Pengujian Kendraan Bermotor
+266	01.01.13.05.002	Tanah Lapangan Pengelolaan Bahan Bangunan
+267	01.01.13.05.003	Tanah Lapangan Pengujian Lainnya
+268	01.01.13.05.004	Tanah Lapangan Pengujian Lain-lain
+269	01.01.13.06.001	Tanah Lapangan Terbang Perintis
+270	01.01.13.06.002	Tanah Lapangan Komersial
+271	01.01.13.06.003	Tanah Lapangan Terbang Khusus/Militer
+272	01.01.13.06.004	Tanah Lapangan Terbang Olah Raga
+273	01.01.13.06.005	Tanah Lapangan Terbang Pendidikan
+274	01.01.13.06.006	Tanah Lapangan Terbang Lainnya
+275	01.01.13.07.001	Tanah Untuk Jalan Nasional
+276	01.01.13.07.002	Tanah Untuk Jalan Propinsi
+277	01.01.13.07.003	Tanah Untuk Jalan Kabupaten
+278	01.01.13.07.004	Tanah Untuk Jalan Kotamadya
+279	01.01.13.07.005	Tanah Untuk Jalan Desa
+280	01.01.13.07.006	Tanah Untuk Jalan Tol
+281	01.01.13.07.007	Tanah Untuk Jalan Kereta Api/Lori
+282	01.01.13.07.008	Tanah Untuk Jalan Landasan Pacu Pesawat Terbang
+283	01.01.13.07.009	Tanah Untuk Jalan Khusus/Komplek
+284	01.01.13.07.010	Tanah Utk Bangunan Jalan Lain-lain
+285	01.01.13.08.001	Tanah Untuk Bangunan Air Irigasi
+286	01.01.13.08.002	Tanah Untuk Bangunan Pengairan Pasang Surut
+287	01.01.13.08.003	Tanah Untuk Bangunan Pengembangan Rawa dan Polder
+288	01.01.13.08.004	Tanah Untuk Bangunan Pengaman Sungai dan Penanggul
+289	01.01.13.08.005	Tanah Untuk Bangunan Pengembangan Sumber Air dan Air Tanah
+290	01.01.13.08.006	Tanah Untuk Bangunan Air Bersih/Air Baku
+291	01.01.13.08.007	Tanah Untuk Bangunan Air Kotor
+292	01.01.13.08.008	Tanah Utk Bangunan Air Lain-lain
+293	01.01.13.09.001	Tanah Untuk Bangunan Instalasi Air Bersih/Air Baku
+294	01.01.13.09.002	Tanah Untuk Bangunan Instalasi Air Kotor/Air Limbah
+295	01.01.13.09.003	Tanah Untuk Bangunan Instalasi Pengolahan Sampah
+296	01.01.13.09.004	Tanah Untuk Bangunan Instalasi Pengolahan Bahan Bangunan
+297	01.01.13.09.005	Tanah Untuk Bangunan Instalasi Listrik
+298	01.01.13.09.006	Tanah Untuk Bangunan Instalasi Gardu Listrik
+299	01.01.13.09.007	Tanah Untuk Bangunan Instalasi Pengolahan Limbah
+300	01.01.13.09.008	Tanah Utk Bangunan Instalsi Lain-lain
+301	01.01.13.10.001	Tanah Untuk Bangunan Jaringan Air Bersih/Air Baku
+302	01.01.13.10.002	Tanah Untuk Bangunan Jaringan Komunikasi
+303	01.01.13.10.003	Tanah Untuk Bangunan Jaringan Listrik
+304	01.01.13.10.004	Tanah Untuk Bangunan Jaringan Gas/BBM
+305	01.01.13.10.005	Tanah Utk Bangunan Jaringan Lain-lain
+306	01.01.13.11.001	Tanah Untuk Monumen
+307	01.01.13.11.002	Tanah Untuk Tugu Peringatan
+308	01.01.13.11.003	Tanah Untuk Tugu Batas Wilayah
+309	01.01.13.11.004	Tanah Untuk Candi
+310	01.01.13.11.005	Tanah Untuk Bangunan Museum
+311	01.01.13.11.006	Tanah Untuk Bangunan Bersejarah
+312	01.01.13.11.007	Tanah Utk Bangunan Bersejarah Lain-lain
+313	01.01.13.12.001	Tanah Bangunan Sarana Olah Raga Terbatas
+314	01.01.13.12.002	Tanah Bangunan Sarana Olah Raga Terbuka
+315	01.01.13.12.003	Tanah Bangunan Sarana Olah Raga Lainnya
+316	01.01.13.13.001	Tanah Untuk Bangunan Mesjid
+317	01.01.13.13.002	Tanah Untuk Bangunan Gereja
+318	01.01.13.13.003	Tanah Untuk Bangunan Pura
+319	01.01.13.13.004	Tanah Untuk Bangunan Vihara
+320	01.01.13.13.005	Tanah Untuk Bangunan Klenteng/Kuil
+321	01.01.13.13.006	Tanah Untuk Bangunan Krematorium
+322	01.01.13.13.007	Tanah Utk Bangunan Tempat Ibadah Lain-lain
