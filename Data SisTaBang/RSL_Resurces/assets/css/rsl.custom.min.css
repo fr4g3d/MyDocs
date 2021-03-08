@@ -1,0 +1,91 @@
+/*!
+ * RockShowLink Custom Style
+ */
+ 
+/* Custom Button for Add/New Entry */
+.table-header .btn-hovclk {
+	position: absolute; right: 10px;
+	background-color: #FFB752; border: 2px; border-color: #FFB752; border-radius: 3px; color: white; font-size: 13px; padding: 7px 6px;
+	text-shadow: 1px -1px 1px rgba(0,0,0,.30); text-align: center; text-decoration: none;
+	display: inline-block; font-size: 13px; margin: 2.5px 5px; box-shadow: 1px 1px #789; cursor: pointer;
+}
+.table-header .btn-hovclk:hover {background-color: #f0ad4e; text-decoration: none; color: #acfeac;}
+.table-header .btn-hovclk:active {background-color: #FFB752; box-shadow: 0px 0px #789; transform: translateY(1px) translateX(1px);}
+.table-header .btn-icon:hover { text-decoration: none; }
+
+/* Custom BreadcumFix Resize */
+@media (min-width:992px){.breadcrumbs-fixed+.page-content {
+    padding-top: 24px;
+}
+.page-content {
+    margin: 0;
+    padding: 8px 12px 12px;
+}
+
+/* Table Header */
+.table-header {
+	background-color: #7FBEE9;
+    color: #FFF;
+    font-size: 14px;
+    line-height: 32px;
+    padding-left: 12px;
+    margin-bottom: 1px;
+}
+
+/* DataTables: HeadRow Resize */
+.dataTables_wrapper .row:first-child {
+	padding-top: 3px;
+	padding-bottom: 1px;
+}
+
+/* DataTables: Resize FontSize */
+.dataTables_wrapper label {
+    font-size: 12px;
+}
+
+/* Close Button for SearchBox */
+.dataTables_wrapper input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {-webkit-appearance: searchfield-cancel-button; border-radius: 3px;}
+
+/* DataTables: Controls Resize */
+.dataTables_wrapper select {
+	height: auto;
+}
+.dataTables_wrapper input[type=search] {
+	height: 12px;
+}
+
+/* DataTables: Sorting icons Disabled */
+table.dataTable thead .sorting, 
+table.dataTable thead .sorting_asc, 
+table.dataTable thead .sorting_desc {
+	background : none;
+}
+
+/* DataTables: Resize Table Header */
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 5px;
+    line-height: 0.9;
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+/* DataTables: Footer Resize */
+.dataTables_wrapper .row:last-child {
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+.dataTables_info {
+    font-size: 12px;
+}
+
+.list-group-item, .no-radius, .pager>li>a, .pagination>li>a {
+    border-radius: 1!important;
+}
+.pagination>li>a, .pagination>li>span {
+    padding: 5px 10px;
+    line-height: 1.2;
+	font-size: 12px;
+}
